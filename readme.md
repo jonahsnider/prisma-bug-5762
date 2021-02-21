@@ -1,4 +1,4 @@
-# prisma-bug-5762
+# [prisma-bug-5762](https://github.com/prisma/prisma/issues/5762)
 
 ## Local usage
 
