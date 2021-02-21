@@ -16,7 +16,6 @@ model Alpha {
 }
 
 model Beta {
-  /// When the visit occurred
   timestamp DateTime @id @default(now())
 
   Alpha   Alpha?  @relation(fields: [alphaId], references: [id])
